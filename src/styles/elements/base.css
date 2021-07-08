@@ -1,3 +1,5 @@
 body {
     background-color: var(--color-pomb-and-power);
+    max-width: 320px;
+    margin: 0 auto;
 }
