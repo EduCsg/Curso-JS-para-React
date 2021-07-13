@@ -1,5 +1,5 @@
 import "./style.css";
-import CardGame from "../../components/Card-game";
+import CardGame from "../../components/CardGame";
 
 function BoardGame(amountCards) {
     const $htmlCardGame = CardGame();
